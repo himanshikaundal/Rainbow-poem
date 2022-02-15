@@ -1,4 +1,4 @@
-The Rainbow and the unicorn
+The Rainbow and the unicorn and the ponies
 
 red
 orange
@@ -10,3 +10,4 @@ white
 yellow
 black
 unicorn
+pony

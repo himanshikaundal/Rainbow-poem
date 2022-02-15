@@ -10,3 +10,4 @@ white
 yellow
 black
 unicorn
+purple

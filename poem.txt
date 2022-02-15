@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the unicorn
 
 red
 orange
@@ -9,3 +9,4 @@ pink
 white
 yellow
 black
+unicorn
